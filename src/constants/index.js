@@ -193,7 +193,7 @@ import {
         "An argumented reality application built to show the different parts of a car_model in AR.",
       tags: [
         {
-          name: "react",
+          name: "Solar system",
           color: "blue-text-gradient",
         },
         {
